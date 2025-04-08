@@ -2463,5 +2463,4445 @@
     "city": "Luxembourg City",
     "country": "Luxembourg",
     "salary": "3077 EUR"
-  }
+  },
+  {
+        "job_id": "ZF2YQP",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "1714 EUR"
+    },
+    {
+        "job_id": "GTOMFN",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1873 EUR"
+    },
+    {
+        "job_id": "65TEGK",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "3203 EUR"
+    },
+    {
+        "job_id": "2PIFK1",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2192 EUR"
+    },
+    {
+        "job_id": "NTRZ19",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1849 EUR"
+    },
+    {
+        "job_id": "BO98L1",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "2895 EUR"
+    },
+    {
+        "job_id": "93U82M",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2286 EUR"
+    },
+    {
+        "job_id": "YIIOY4",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "3297 EUR"
+    },
+    {
+        "job_id": "GGCFHH",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "2496 EUR"
+    },
+    {
+        "job_id": "GSFGBI",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "2886 EUR"
+    },
+    {
+        "job_id": "C15CAV",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "1779 EUR"
+    },
+    {
+        "job_id": "JI2C0V",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "2359 EUR"
+    },
+    {
+        "job_id": "L3T8PG",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3190 EUR"
+    },
+    {
+        "job_id": "G327XL",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1542 EUR"
+    },
+    {
+        "job_id": "BWHS5P",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2321 EUR"
+    },
+    {
+        "job_id": "89ZBRZ",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2080 EUR"
+    },
+    {
+        "job_id": "M2NZ2O",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "3312 EUR"
+    },
+    {
+        "job_id": "S3EEDA",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2438 EUR"
+    },
+    {
+        "job_id": "GU8CHN",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "1742 EUR"
+    },
+    {
+        "job_id": "7XEE58",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "3270 EUR"
+    },
+    {
+        "job_id": "IETBVN",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2137 EUR"
+    },
+    {
+        "job_id": "T20346",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "3006 EUR"
+    },
+    {
+        "job_id": "D3JKP0",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "1736 EUR"
+    },
+    {
+        "job_id": "MOCRXF",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "1509 EUR"
+    },
+    {
+        "job_id": "4XWJWR",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "1906 EUR"
+    },
+    {
+        "job_id": "9XXO5C",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "3224 EUR"
+    },
+    {
+        "job_id": "68KY49",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2976 EUR"
+    },
+    {
+        "job_id": "27FQ2K",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1974 EUR"
+    },
+    {
+        "job_id": "82VF5N",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2775 EUR"
+    },
+    {
+        "job_id": "YNHCW4",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2597 EUR"
+    },
+    {
+        "job_id": "4JVXPO",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1760 EUR"
+    },
+    {
+        "job_id": "5YCVZS",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2867 EUR"
+    },
+    {
+        "job_id": "QN6I5T",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2200 EUR"
+    },
+    {
+        "job_id": "WUA4MF",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "2897 EUR"
+    },
+    {
+        "job_id": "QK8EXO",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2288 EUR"
+    },
+    {
+        "job_id": "FSBGPZ",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2996 EUR"
+    },
+    {
+        "job_id": "LENWYN",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "3139 EUR"
+    },
+    {
+        "job_id": "FJRAMH",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "3397 EUR"
+    },
+    {
+        "job_id": "ZGYF54",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "2051 EUR"
+    },
+    {
+        "job_id": "7XZWK9",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2446 EUR"
+    },
+    {
+        "job_id": "MS49QY",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2794 EUR"
+    },
+    {
+        "job_id": "13HE8B",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "2090 EUR"
+    },
+    {
+        "job_id": "56I2KQ",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "1531 EUR"
+    },
+    {
+        "job_id": "861W1F",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2028 EUR"
+    },
+    {
+        "job_id": "SG3SB2",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "2523 EUR"
+    },
+    {
+        "job_id": "NWL0H4",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "3014 EUR"
+    },
+    {
+        "job_id": "VI5V31",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "3243 EUR"
+    },
+    {
+        "job_id": "OILY4R",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2386 EUR"
+    },
+    {
+        "job_id": "HHRVRB",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1839 EUR"
+    },
+    {
+        "job_id": "V8L39I",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2692 EUR"
+    },
+    {
+        "job_id": "OPAJIZ",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2906 EUR"
+    },
+    {
+        "job_id": "NPE48U",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "1536 EUR"
+    },
+    {
+        "job_id": "LFNROO",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2448 EUR"
+    },
+    {
+        "job_id": "BCXZPQ",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2473 EUR"
+    },
+    {
+        "job_id": "72J0EG",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2798 EUR"
+    },
+    {
+        "job_id": "V3CJVM",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2960 EUR"
+    },
+    {
+        "job_id": "7S7JUW",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1867 EUR"
+    },
+    {
+        "job_id": "EJ65XP",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "3058 EUR"
+    },
+    {
+        "job_id": "O4AC04",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2747 EUR"
+    },
+    {
+        "job_id": "XGFHZ2",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "3240 EUR"
+    },
+    {
+        "job_id": "3DFQO9",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2130 EUR"
+    },
+    {
+        "job_id": "1PNU1B",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "3171 EUR"
+    },
+    {
+        "job_id": "DYEK0V",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2809 EUR"
+    },
+    {
+        "job_id": "BHEN2H",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2865 EUR"
+    },
+    {
+        "job_id": "50PHP7",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3379 EUR"
+    },
+    {
+        "job_id": "YCJ7XY",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2493 EUR"
+    },
+    {
+        "job_id": "G5AR51",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "2357 EUR"
+    },
+    {
+        "job_id": "R35562",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1926 EUR"
+    },
+    {
+        "job_id": "PGUVDT",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2544 EUR"
+    },
+    {
+        "job_id": "JZRE85",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1754 EUR"
+    },
+    {
+        "job_id": "0WL7NO",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "3321 EUR"
+    },
+    {
+        "job_id": "HSOBPV",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2857 EUR"
+    },
+    {
+        "job_id": "P9T5NF",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1633 EUR"
+    },
+    {
+        "job_id": "0YKEDD",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2151 EUR"
+    },
+    {
+        "job_id": "HVKB0B",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "3368 EUR"
+    },
+    {
+        "job_id": "T3P2VQ",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2453 EUR"
+    },
+    {
+        "job_id": "22XKAR",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1509 EUR"
+    },
+    {
+        "job_id": "RTT0V8",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2697 EUR"
+    },
+    {
+        "job_id": "Y2RWEE",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2240 EUR"
+    },
+    {
+        "job_id": "T39QUX",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "1729 EUR"
+    },
+    {
+        "job_id": "PSYHTL",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "1657 EUR"
+    },
+    {
+        "job_id": "J0T69W",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "2949 EUR"
+    },
+    {
+        "job_id": "HZMNR4",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "3379 EUR"
+    },
+    {
+        "job_id": "1C4ZW5",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2625 EUR"
+    },
+    {
+        "job_id": "9WJK9J",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2771 EUR"
+    },
+    {
+        "job_id": "TTHXP1",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3441 EUR"
+    },
+    {
+        "job_id": "3TJ0HR",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "3395 EUR"
+    },
+    {
+        "job_id": "UF3PS4",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1934 EUR"
+    },
+    {
+        "job_id": "EER6YD",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2072 EUR"
+    },
+    {
+        "job_id": "95W5ZJ",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2704 EUR"
+    },
+    {
+        "job_id": "MJ2JVB",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2328 EUR"
+    },
+    {
+        "job_id": "OU2QZ8",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2875 EUR"
+    },
+    {
+        "job_id": "B4HJ4Q",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3478 EUR"
+    },
+    {
+        "job_id": "JNF8K6",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2282 EUR"
+    },
+    {
+        "job_id": "KV7H5F",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2600 EUR"
+    },
+    {
+        "job_id": "ZU1C0C",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "2898 EUR"
+    },
+    {
+        "job_id": "4ILDV3",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2072 EUR"
+    },
+    {
+        "job_id": "ABGV60",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2463 EUR"
+    },
+    {
+        "job_id": "H2B40H",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "1615 EUR"
+    },
+    {
+        "job_id": "NFVQLK",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2119 EUR"
+    },
+    {
+        "job_id": "7WLWMK",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2053 EUR"
+    },
+    {
+        "job_id": "MRJBYI",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2070 EUR"
+    },
+    {
+        "job_id": "K3N6IZ",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2589 EUR"
+    },
+    {
+        "job_id": "NZZGM0",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "2710 EUR"
+    },
+    {
+        "job_id": "7UI1OE",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "2183 EUR"
+    },
+    {
+        "job_id": "W54DY7",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "1940 EUR"
+    },
+    {
+        "job_id": "PGBG9V",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "3015 EUR"
+    },
+    {
+        "job_id": "8LQY15",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2363 EUR"
+    },
+    {
+        "job_id": "HE1DWF",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "1794 EUR"
+    },
+    {
+        "job_id": "N4FTLO",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "3445 EUR"
+    },
+    {
+        "job_id": "DDW7WY",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "3344 EUR"
+    },
+    {
+        "job_id": "IQ2L1B",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2237 EUR"
+    },
+    {
+        "job_id": "VG62QF",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2186 EUR"
+    },
+    {
+        "job_id": "PPS8NH",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1899 EUR"
+    },
+    {
+        "job_id": "AHQXL1",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2677 EUR"
+    },
+    {
+        "job_id": "K7YZNM",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "3363 EUR"
+    },
+    {
+        "job_id": "06RBMO",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1976 EUR"
+    },
+    {
+        "job_id": "7DO8HX",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2984 EUR"
+    },
+    {
+        "job_id": "SUORT7",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2828 EUR"
+    },
+    {
+        "job_id": "O7OQ3Q",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "2614 EUR"
+    },
+    {
+        "job_id": "IUZ5VD",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "3458 EUR"
+    },
+    {
+        "job_id": "IQ4EQP",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2859 EUR"
+    },
+    {
+        "job_id": "V4TH2F",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2508 EUR"
+    },
+    {
+        "job_id": "1B1RC2",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "1647 EUR"
+    },
+    {
+        "job_id": "7288RL",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "1672 EUR"
+    },
+    {
+        "job_id": "ZP88EF",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2826 EUR"
+    },
+    {
+        "job_id": "8J9IMV",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "3396 EUR"
+    },
+    {
+        "job_id": "NOZVKA",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "2271 EUR"
+    },
+    {
+        "job_id": "TAX0YF",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2449 EUR"
+    },
+    {
+        "job_id": "3XR3Q1",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2101 EUR"
+    },
+    {
+        "job_id": "3VO6R4",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "2466 EUR"
+    },
+    {
+        "job_id": "XCIO0Y",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2999 EUR"
+    },
+    {
+        "job_id": "ELXO46",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "3446 EUR"
+    },
+    {
+        "job_id": "EXMQZU",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1936 EUR"
+    },
+    {
+        "job_id": "WSPNNN",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "3255 EUR"
+    },
+    {
+        "job_id": "OLXID0",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2971 EUR"
+    },
+    {
+        "job_id": "E4CEWQ",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2658 EUR"
+    },
+    {
+        "job_id": "1PYQHK",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "1966 EUR"
+    },
+    {
+        "job_id": "9Y4P52",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2493 EUR"
+    },
+    {
+        "job_id": "ONPPAE",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "3092 EUR"
+    },
+    {
+        "job_id": "7DA8D7",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2803 EUR"
+    },
+    {
+        "job_id": "YUHN0D",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "3420 EUR"
+    },
+    {
+        "job_id": "7247LJ",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2440 EUR"
+    },
+    {
+        "job_id": "PA1S9M",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "1820 EUR"
+    },
+    {
+        "job_id": "3P1N0S",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "1588 EUR"
+    },
+    {
+        "job_id": "X2LJN7",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1557 EUR"
+    },
+    {
+        "job_id": "3HRH6B",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "3084 EUR"
+    },
+    {
+        "job_id": "58C2M1",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2938 EUR"
+    },
+    {
+        "job_id": "X7FIYK",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1537 EUR"
+    },
+    {
+        "job_id": "ODTV4J",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "1727 EUR"
+    },
+    {
+        "job_id": "D5L9MD",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1599 EUR"
+    },
+    {
+        "job_id": "YXAE59",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1865 EUR"
+    },
+    {
+        "job_id": "XLKKTK",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "2348 EUR"
+    },
+    {
+        "job_id": "VHA0LF",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2906 EUR"
+    },
+    {
+        "job_id": "JOPCYS",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "2546 EUR"
+    },
+    {
+        "job_id": "8F2GN1",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2919 EUR"
+    },
+    {
+        "job_id": "4JDIPY",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "2496 EUR"
+    },
+    {
+        "job_id": "7BMP48",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "1878 EUR"
+    },
+    {
+        "job_id": "M2YNHW",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2740 EUR"
+    },
+    {
+        "job_id": "MPXLGS",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "3218 EUR"
+    },
+    {
+        "job_id": "6NR6PP",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "3144 EUR"
+    },
+    {
+        "job_id": "S4VQA9",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1913 EUR"
+    },
+    {
+        "job_id": "WMG488",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2801 EUR"
+    },
+    {
+        "job_id": "AWWL07",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "3247 EUR"
+    },
+    {
+        "job_id": "8NA81Y",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "1621 EUR"
+    },
+    {
+        "job_id": "ICQJF8",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "1800 EUR"
+    },
+    {
+        "job_id": "G4V2H3",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "3363 EUR"
+    },
+    {
+        "job_id": "YYDE8X",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3359 EUR"
+    },
+    {
+        "job_id": "DABZIV",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "1765 EUR"
+    },
+    {
+        "job_id": "6LJ6FS",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2465 EUR"
+    },
+    {
+        "job_id": "6XS50P",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "3274 EUR"
+    },
+    {
+        "job_id": "K2Y0QJ",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "3243 EUR"
+    },
+    {
+        "job_id": "H7YCUC",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "2231 EUR"
+    },
+    {
+        "job_id": "HNZQYS",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2601 EUR"
+    },
+    {
+        "job_id": "VDYU4Z",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "2741 EUR"
+    },
+    {
+        "job_id": "IIDAAH",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "3095 EUR"
+    },
+    {
+        "job_id": "6AWDSI",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2818 EUR"
+    },
+    {
+        "job_id": "G3105S",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "3425 EUR"
+    },
+    {
+        "job_id": "E4TFKS",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "3347 EUR"
+    },
+    {
+        "job_id": "ZICOCT",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "1783 EUR"
+    },
+    {
+        "job_id": "8O321Q",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1752 EUR"
+    },
+    {
+        "job_id": "E27N0I",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "1677 EUR"
+    },
+    {
+        "job_id": "VUUMCX",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "1834 EUR"
+    },
+    {
+        "job_id": "8Y65FE",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2551 EUR"
+    },
+    {
+        "job_id": "AAL59T",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "3470 EUR"
+    },
+    {
+        "job_id": "5LX3IQ",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "3130 EUR"
+    },
+    {
+        "job_id": "BWNO7O",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2228 EUR"
+    },
+    {
+        "job_id": "UMH3B9",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "1875 EUR"
+    },
+    {
+        "job_id": "PAD6KO",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "2672 EUR"
+    },
+    {
+        "job_id": "CR0RR0",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "3316 EUR"
+    },
+    {
+        "job_id": "9U3ENT",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "3252 EUR"
+    },
+    {
+        "job_id": "V5RNCD",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "1542 EUR"
+    },
+    {
+        "job_id": "Q3ZVOK",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "2136 EUR"
+    },
+    {
+        "job_id": "KRKVE5",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "3336 EUR"
+    },
+    {
+        "job_id": "QQY67Y",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "2145 EUR"
+    },
+    {
+        "job_id": "A965VS",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1707 EUR"
+    },
+    {
+        "job_id": "PF5QQ9",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2450 EUR"
+    },
+    {
+        "job_id": "08S537",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "2896 EUR"
+    },
+    {
+        "job_id": "0HOBSI",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "2325 EUR"
+    },
+    {
+        "job_id": "OSOWFU",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "1579 EUR"
+    },
+    {
+        "job_id": "JREEAI",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2604 EUR"
+    },
+    {
+        "job_id": "KP4HGD",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2687 EUR"
+    },
+    {
+        "job_id": "L5GMPH",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "1936 EUR"
+    },
+    {
+        "job_id": "K5C8HN",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "1712 EUR"
+    },
+    {
+        "job_id": "O32E6M",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2867 EUR"
+    },
+    {
+        "job_id": "S80SXQ",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "2107 EUR"
+    },
+    {
+        "job_id": "HEA2SC",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "1852 EUR"
+    },
+    {
+        "job_id": "TBJ0QB",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "1837 EUR"
+    },
+    {
+        "job_id": "8D6PD6",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "1620 EUR"
+    },
+    {
+        "job_id": "N80064",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2150 EUR"
+    },
+    {
+        "job_id": "DOF84Z",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2551 EUR"
+    },
+    {
+        "job_id": "KNREAL",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2617 EUR"
+    },
+    {
+        "job_id": "8IG1O1",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "3022 EUR"
+    },
+    {
+        "job_id": "RQS5X6",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "1790 EUR"
+    },
+    {
+        "job_id": "WMHTNX",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "3408 EUR"
+    },
+    {
+        "job_id": "9KGZM1",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "3496 EUR"
+    },
+    {
+        "job_id": "4OWC2N",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "3228 EUR"
+    },
+    {
+        "job_id": "NETUD9",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2385 EUR"
+    },
+    {
+        "job_id": "QV7NSX",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2978 EUR"
+    },
+    {
+        "job_id": "46SBGU",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2858 EUR"
+    },
+    {
+        "job_id": "6C2Y3S",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "1970 EUR"
+    },
+    {
+        "job_id": "KMKVNK",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "2287 EUR"
+    },
+    {
+        "job_id": "U33WKY",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "3097 EUR"
+    },
+    {
+        "job_id": "SSK08S",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "3213 EUR"
+    },
+    {
+        "job_id": "BXF4QK",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "1867 EUR"
+    },
+    {
+        "job_id": "35TJRK",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2888 EUR"
+    },
+    {
+        "job_id": "4ZNZ2P",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "3250 EUR"
+    },
+    {
+        "job_id": "Y7NCNR",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "3132 EUR"
+    },
+    {
+        "job_id": "MKAU3U",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "2052 EUR"
+    },
+    {
+        "job_id": "C0TS6P",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3396 EUR"
+    },
+    {
+        "job_id": "IZ1YVB",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3472 EUR"
+    },
+    {
+        "job_id": "PHO304",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2934 EUR"
+    },
+    {
+        "job_id": "B3ABHI",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2413 EUR"
+    },
+    {
+        "job_id": "JPFU7K",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2589 EUR"
+    },
+    {
+        "job_id": "GX22IS",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "2872 EUR"
+    },
+    {
+        "job_id": "DH6CCF",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "3291 EUR"
+    },
+    {
+        "job_id": "RBARLD",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2761 EUR"
+    },
+    {
+        "job_id": "ABSFOB",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2148 EUR"
+    },
+    {
+        "job_id": "UXTZFI",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "3008 EUR"
+    },
+    {
+        "job_id": "H7X46I",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1942 EUR"
+    },
+    {
+        "job_id": "V77WV7",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "2039 EUR"
+    },
+    {
+        "job_id": "NJ01FF",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3393 EUR"
+    },
+    {
+        "job_id": "NGDU8J",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "2328 EUR"
+    },
+    {
+        "job_id": "PONPL9",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "2289 EUR"
+    },
+    {
+        "job_id": "N6GIJI",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2186 EUR"
+    },
+    {
+        "job_id": "C5FPGE",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "3494 EUR"
+    },
+    {
+        "job_id": "317JNQ",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2572 EUR"
+    },
+    {
+        "job_id": "LFAXXD",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "2496 EUR"
+    },
+    {
+        "job_id": "YL894Y",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2520 EUR"
+    },
+    {
+        "job_id": "NOT30M",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2018 EUR"
+    },
+    {
+        "job_id": "3EUQBA",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2551 EUR"
+    },
+    {
+        "job_id": "889KS8",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2215 EUR"
+    },
+    {
+        "job_id": "UFN2SW",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2453 EUR"
+    },
+    {
+        "job_id": "IVS5YC",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "1984 EUR"
+    },
+    {
+        "job_id": "K861DF",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2894 EUR"
+    },
+    {
+        "job_id": "NS2JMI",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "3385 EUR"
+    },
+    {
+        "job_id": "54MNQQ",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2421 EUR"
+    },
+    {
+        "job_id": "JQFQTS",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "2090 EUR"
+    },
+    {
+        "job_id": "IVH9EH",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "2589 EUR"
+    },
+    {
+        "job_id": "7UOXTK",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2934 EUR"
+    },
+    {
+        "job_id": "G6GWYK",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "1911 EUR"
+    },
+    {
+        "job_id": "AU7JUR",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3375 EUR"
+    },
+    {
+        "job_id": "LDGF8O",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "3406 EUR"
+    },
+    {
+        "job_id": "0WMCX4",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "3273 EUR"
+    },
+    {
+        "job_id": "GSO432",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "3461 EUR"
+    },
+    {
+        "job_id": "4HK5TN",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2041 EUR"
+    },
+    {
+        "job_id": "RMFKJT",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1900 EUR"
+    },
+    {
+        "job_id": "YEVXBA",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "1682 EUR"
+    },
+    {
+        "job_id": "N8SW7C",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2696 EUR"
+    },
+    {
+        "job_id": "M901ES",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2853 EUR"
+    },
+    {
+        "job_id": "H99XTV",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "3397 EUR"
+    },
+    {
+        "job_id": "QDA17G",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "1846 EUR"
+    },
+    {
+        "job_id": "QUUWGE",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1624 EUR"
+    },
+    {
+        "job_id": "THAKHY",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2987 EUR"
+    },
+    {
+        "job_id": "39QLVN",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "2520 EUR"
+    },
+    {
+        "job_id": "6FYC6E",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "3096 EUR"
+    },
+    {
+        "job_id": "XCUX28",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "3285 EUR"
+    },
+    {
+        "job_id": "RPXFH5",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2204 EUR"
+    },
+    {
+        "job_id": "DYTX77",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "2720 EUR"
+    },
+    {
+        "job_id": "7F1I8F",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "3333 EUR"
+    },
+    {
+        "job_id": "FVXZEQ",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "3201 EUR"
+    },
+    {
+        "job_id": "6R18NC",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1582 EUR"
+    },
+    {
+        "job_id": "NDAJZD",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2855 EUR"
+    },
+    {
+        "job_id": "PARFUV",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "3245 EUR"
+    },
+    {
+        "job_id": "HR3LFO",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "1849 EUR"
+    },
+    {
+        "job_id": "P4WMX5",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2334 EUR"
+    },
+    {
+        "job_id": "YYP18X",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "1901 EUR"
+    },
+    {
+        "job_id": "4H1QP3",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "3348 EUR"
+    },
+    {
+        "job_id": "3B89B5",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2908 EUR"
+    },
+    {
+        "job_id": "IGLJJV",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1650 EUR"
+    },
+    {
+        "job_id": "B0ZCQB",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2260 EUR"
+    },
+    {
+        "job_id": "CMKY9U",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "1891 EUR"
+    },
+    {
+        "job_id": "9T71GF",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "3291 EUR"
+    },
+    {
+        "job_id": "SFWHUG",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2570 EUR"
+    },
+    {
+        "job_id": "05X997",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2282 EUR"
+    },
+    {
+        "job_id": "GCBYTN",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2163 EUR"
+    },
+    {
+        "job_id": "YUI8H3",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2268 EUR"
+    },
+    {
+        "job_id": "PR97LK",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "3163 EUR"
+    },
+    {
+        "job_id": "SL9PSY",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "1707 EUR"
+    },
+    {
+        "job_id": "DSDVL6",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "3082 EUR"
+    },
+    {
+        "job_id": "OMLH3A",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3483 EUR"
+    },
+    {
+        "job_id": "5CMNUK",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "2550 EUR"
+    },
+    {
+        "job_id": "YUSV7W",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2368 EUR"
+    },
+    {
+        "job_id": "KWBHAD",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2493 EUR"
+    },
+    {
+        "job_id": "JGDNMW",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "2583 EUR"
+    },
+    {
+        "job_id": "VOBVJO",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2662 EUR"
+    },
+    {
+        "job_id": "M2VXLR",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2089 EUR"
+    },
+    {
+        "job_id": "N5J8NN",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "1744 EUR"
+    },
+    {
+        "job_id": "WVHX9N",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "1748 EUR"
+    },
+    {
+        "job_id": "Y97E1M",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "1775 EUR"
+    },
+    {
+        "job_id": "LVEBXO",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "1520 EUR"
+    },
+    {
+        "job_id": "LZN0T0",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "3177 EUR"
+    },
+    {
+        "job_id": "63NU8I",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2591 EUR"
+    },
+    {
+        "job_id": "CQX6VE",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "3123 EUR"
+    },
+    {
+        "job_id": "L0800Y",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2308 EUR"
+    },
+    {
+        "job_id": "XZMY21",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "1596 EUR"
+    },
+    {
+        "job_id": "6RZ2CX",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2490 EUR"
+    },
+    {
+        "job_id": "ZR07YQ",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "1526 EUR"
+    },
+    {
+        "job_id": "GFUCTL",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2804 EUR"
+    },
+    {
+        "job_id": "60Z0TL",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2980 EUR"
+    },
+    {
+        "job_id": "E5U2R5",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2970 EUR"
+    },
+    {
+        "job_id": "05B3LX",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2364 EUR"
+    },
+    {
+        "job_id": "CVWV24",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "3076 EUR"
+    },
+    {
+        "job_id": "MH8QE7",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "3036 EUR"
+    },
+    {
+        "job_id": "366IHE",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "1608 EUR"
+    },
+    {
+        "job_id": "UQNTJ2",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "1885 EUR"
+    },
+    {
+        "job_id": "WN7RNR",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3174 EUR"
+    },
+    {
+        "job_id": "HG18IE",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "3005 EUR"
+    },
+    {
+        "job_id": "PWWK1D",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "3360 EUR"
+    },
+    {
+        "job_id": "H9RYH0",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2260 EUR"
+    },
+    {
+        "job_id": "2X9GLI",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "1822 EUR"
+    },
+    {
+        "job_id": "M8A0HR",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2109 EUR"
+    },
+    {
+        "job_id": "OIDPNO",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "3190 EUR"
+    },
+    {
+        "job_id": "U1YWI3",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2335 EUR"
+    },
+    {
+        "job_id": "7TUWHU",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2478 EUR"
+    },
+    {
+        "job_id": "58VP66",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "3190 EUR"
+    },
+    {
+        "job_id": "U31W6V",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1642 EUR"
+    },
+    {
+        "job_id": "ILUGCE",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2537 EUR"
+    },
+    {
+        "job_id": "IW2M8C",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "1547 EUR"
+    },
+    {
+        "job_id": "D7F9CX",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2863 EUR"
+    },
+    {
+        "job_id": "LVVV21",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2574 EUR"
+    },
+    {
+        "job_id": "IPBIZ0",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2285 EUR"
+    },
+    {
+        "job_id": "RQRER1",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "1660 EUR"
+    },
+    {
+        "job_id": "05V14B",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2398 EUR"
+    },
+    {
+        "job_id": "LF8BR9",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2381 EUR"
+    },
+    {
+        "job_id": "KQPR6G",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2416 EUR"
+    },
+    {
+        "job_id": "AC6MD2",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2049 EUR"
+    },
+    {
+        "job_id": "RX6D4O",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2320 EUR"
+    },
+    {
+        "job_id": "4VUT8E",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "1949 EUR"
+    },
+    {
+        "job_id": "TGC7XH",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3140 EUR"
+    },
+    {
+        "job_id": "P9X1JV",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2291 EUR"
+    },
+    {
+        "job_id": "IP298E",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2206 EUR"
+    },
+    {
+        "job_id": "5NGYDQ",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2941 EUR"
+    },
+    {
+        "job_id": "VF6PDI",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2895 EUR"
+    },
+    {
+        "job_id": "CO9TJF",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "2467 EUR"
+    },
+    {
+        "job_id": "FOMR7A",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "1951 EUR"
+    },
+    {
+        "job_id": "8S1KC4",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "3319 EUR"
+    },
+    {
+        "job_id": "S07KTQ",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3095 EUR"
+    },
+    {
+        "job_id": "0HCF1T",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "3430 EUR"
+    },
+    {
+        "job_id": "S1GXF0",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "1621 EUR"
+    },
+    {
+        "job_id": "K4L2MK",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "2194 EUR"
+    },
+    {
+        "job_id": "TBMSJ3",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2943 EUR"
+    },
+    {
+        "job_id": "6VNWX7",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2355 EUR"
+    },
+    {
+        "job_id": "TIWFJ2",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "3087 EUR"
+    },
+    {
+        "job_id": "18NNXT",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "3073 EUR"
+    },
+    {
+        "job_id": "141RCJ",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "1915 EUR"
+    },
+    {
+        "job_id": "VXM1YM",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2241 EUR"
+    },
+    {
+        "job_id": "F5PXE8",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "1690 EUR"
+    },
+    {
+        "job_id": "GTNHYH",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2695 EUR"
+    },
+    {
+        "job_id": "VN59JG",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "1666 EUR"
+    },
+    {
+        "job_id": "LYFO98",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "1746 EUR"
+    },
+    {
+        "job_id": "G5GC2Q",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "1845 EUR"
+    },
+    {
+        "job_id": "O0UO5Y",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "1564 EUR"
+    },
+    {
+        "job_id": "5RTU8V",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "3046 EUR"
+    },
+    {
+        "job_id": "KORIQB",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2944 EUR"
+    },
+    {
+        "job_id": "WYYOMO",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2237 EUR"
+    },
+    {
+        "job_id": "7FCSEN",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "1598 EUR"
+    },
+    {
+        "job_id": "L1K1JZ",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2317 EUR"
+    },
+    {
+        "job_id": "WNLYRS",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2119 EUR"
+    },
+    {
+        "job_id": "4RTY0P",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2691 EUR"
+    },
+    {
+        "job_id": "985O40",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "3220 EUR"
+    },
+    {
+        "job_id": "OSX9TW",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2925 EUR"
+    },
+    {
+        "job_id": "FSLPP8",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2190 EUR"
+    },
+    {
+        "job_id": "NJDAZ0",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1888 EUR"
+    },
+    {
+        "job_id": "9KGY15",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2938 EUR"
+    },
+    {
+        "job_id": "IAA07K",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2697 EUR"
+    },
+    {
+        "job_id": "F5K8OE",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "3411 EUR"
+    },
+    {
+        "job_id": "P6N3CB",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "2827 EUR"
+    },
+    {
+        "job_id": "M4TVRC",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "2596 EUR"
+    },
+    {
+        "job_id": "3W6HQV",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "1858 EUR"
+    },
+    {
+        "job_id": "QIFZX3",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "3441 EUR"
+    },
+    {
+        "job_id": "154ZX0",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "1673 EUR"
+    },
+    {
+        "job_id": "1DOETZ",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "3481 EUR"
+    },
+    {
+        "job_id": "0WOC2C",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3140 EUR"
+    },
+    {
+        "job_id": "V05ZBR",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "3296 EUR"
+    },
+    {
+        "job_id": "H76JK8",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2580 EUR"
+    },
+    {
+        "job_id": "QA1XSA",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2747 EUR"
+    },
+    {
+        "job_id": "BR5HWD",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "3381 EUR"
+    },
+    {
+        "job_id": "OAOD5O",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "1993 EUR"
+    },
+    {
+        "job_id": "GQCZY2",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "1867 EUR"
+    },
+    {
+        "job_id": "I49YXY",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2767 EUR"
+    },
+    {
+        "job_id": "PHHLRI",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Paris",
+        "country": "France",
+        "salary": "1855 EUR"
+    },
+    {
+        "job_id": "IIJPNG",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Paris",
+        "country": "France",
+        "salary": "2705 EUR"
+    },
+    {
+        "job_id": "KNQHRG",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2062 EUR"
+    },
+    {
+        "job_id": "Q3KP9T",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "1501 EUR"
+    },
+    {
+        "job_id": "9AX42F",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "3218 EUR"
+    },
+    {
+        "job_id": "O48T3Q",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "3460 EUR"
+    },
+    {
+        "job_id": "65JGHU",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "3288 EUR"
+    },
+    {
+        "job_id": "UV9NVK",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2152 EUR"
+    },
+    {
+        "job_id": "HG29QU",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2752 EUR"
+    },
+    {
+        "job_id": "GYPYU2",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1703 EUR"
+    },
+    {
+        "job_id": "H2XLR8",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3073 EUR"
+    },
+    {
+        "job_id": "SL0LUS",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "1865 EUR"
+    },
+    {
+        "job_id": "ICIHL9",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "1851 EUR"
+    },
+    {
+        "job_id": "7P45K1",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "1657 EUR"
+    },
+    {
+        "job_id": "V2TCNC",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "2998 EUR"
+    },
+    {
+        "job_id": "Q8VDM0",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "3301 EUR"
+    },
+    {
+        "job_id": "ME79E9",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3012 EUR"
+    },
+    {
+        "job_id": "K0RA7T",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "1689 EUR"
+    },
+    {
+        "job_id": "7H92M9",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2349 EUR"
+    },
+    {
+        "job_id": "SSI03V",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2957 EUR"
+    },
+    {
+        "job_id": "SUG58K",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2125 EUR"
+    },
+    {
+        "job_id": "GG1MPW",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "3147 EUR"
+    },
+    {
+        "job_id": "4DWJON",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "1775 EUR"
+    },
+    {
+        "job_id": "VLT6PK",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "1633 EUR"
+    },
+    {
+        "job_id": "FHCO39",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2419 EUR"
+    },
+    {
+        "job_id": "JLAVFM",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "2152 EUR"
+    },
+    {
+        "job_id": "7DXY6L",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2209 EUR"
+    },
+    {
+        "job_id": "CU8GJG",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "1622 EUR"
+    },
+    {
+        "job_id": "NB13KQ",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2332 EUR"
+    },
+    {
+        "job_id": "YK15B0",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1539 EUR"
+    },
+    {
+        "job_id": "KTCR63",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1537 EUR"
+    },
+    {
+        "job_id": "YTE3CO",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2884 EUR"
+    },
+    {
+        "job_id": "PXGQ2I",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "1880 EUR"
+    },
+    {
+        "job_id": "89I5LE",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3101 EUR"
+    },
+    {
+        "job_id": "GGWKWR",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "3376 EUR"
+    },
+    {
+        "job_id": "KKKC67",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "3175 EUR"
+    },
+    {
+        "job_id": "FZL4PH",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "3293 EUR"
+    },
+    {
+        "job_id": "S3FFIG",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "2587 EUR"
+    },
+    {
+        "job_id": "KJ9HO3",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2637 EUR"
+    },
+    {
+        "job_id": "QTRBB2",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "2596 EUR"
+    },
+    {
+        "job_id": "8KV552",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "3254 EUR"
+    },
+    {
+        "job_id": "CHOYRY",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "1941 EUR"
+    },
+    {
+        "job_id": "N1CD8L",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3066 EUR"
+    },
+    {
+        "job_id": "QAXF0W",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2052 EUR"
+    },
+    {
+        "job_id": "2TGQX9",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3448 EUR"
+    },
+    {
+        "job_id": "YM6RRU",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "2182 EUR"
+    },
+    {
+        "job_id": "3ZV4VC",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "1781 EUR"
+    },
+    {
+        "job_id": "LI66FC",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "1941 EUR"
+    },
+    {
+        "job_id": "55LPXC",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "2581 EUR"
+    },
+    {
+        "job_id": "JPCC1R",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "1525 EUR"
+    },
+    {
+        "job_id": "UZYWR0",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2000 EUR"
+    },
+    {
+        "job_id": "55PK49",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "3204 EUR"
+    },
+    {
+        "job_id": "NBBAFC",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "2902 EUR"
+    },
+    {
+        "job_id": "BYMJQ8",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3127 EUR"
+    },
+    {
+        "job_id": "91YO7E",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "salary": "2426 EUR"
+    },
+    {
+        "job_id": "1GCZMH",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2089 EUR"
+    },
+    {
+        "job_id": "RJP7Q4",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2562 EUR"
+    },
+    {
+        "job_id": "D718FP",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "1599 EUR"
+    },
+    {
+        "job_id": "GVJNWI",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "3057 EUR"
+    },
+    {
+        "job_id": "NC8VZ0",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1984 EUR"
+    },
+    {
+        "job_id": "8PJYW9",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "2940 EUR"
+    },
+    {
+        "job_id": "EC8TLG",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2086 EUR"
+    },
+    {
+        "job_id": "7W6GBS",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "3190 EUR"
+    },
+    {
+        "job_id": "KIIS6I",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2748 EUR"
+    },
+    {
+        "job_id": "LJ8298",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "salary": "1783 EUR"
+    },
+    {
+        "job_id": "64CE59",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2802 EUR"
+    },
+    {
+        "job_id": "E4ILEV",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "2032 EUR"
+    },
+    {
+        "job_id": "WCS8KT",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "3436 EUR"
+    },
+    {
+        "job_id": "3NEJAO",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2297 EUR"
+    },
+    {
+        "job_id": "68NYYB",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2251 EUR"
+    },
+    {
+        "job_id": "4HBJ9I",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2482 EUR"
+    },
+    {
+        "job_id": "V9SWD6",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "2265 EUR"
+    },
+    {
+        "job_id": "YV4SV9",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2784 EUR"
+    },
+    {
+        "job_id": "Z6FC5R",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "2126 EUR"
+    },
+    {
+        "job_id": "CNADCX",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "salary": "1693 EUR"
+    },
+    {
+        "job_id": "5MY6F0",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2073 EUR"
+    },
+    {
+        "job_id": "3PCZPY",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "1525 EUR"
+    },
+    {
+        "job_id": "QGZK0E",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "1938 EUR"
+    },
+    {
+        "job_id": "KKLZ66",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "1591 EUR"
+    },
+    {
+        "job_id": "HIOV2U",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "2331 EUR"
+    },
+    {
+        "job_id": "GB2D8J",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2443 EUR"
+    },
+    {
+        "job_id": "FF3WME",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "2364 EUR"
+    },
+    {
+        "job_id": "JURXDW",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "2898 EUR"
+    },
+    {
+        "job_id": "FYG5LG",
+        "designation": "Nurse",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "3148 EUR"
+    },
+    {
+        "job_id": "MYWF0Y",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "2542 EUR"
+    },
+    {
+        "job_id": "L8Z4BD",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2335 EUR"
+    },
+    {
+        "job_id": "34WN00",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "2825 EUR"
+    },
+    {
+        "job_id": "79GYOP",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "2744 EUR"
+    },
+    {
+        "job_id": "PPYOQV",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "2656 EUR"
+    },
+    {
+        "job_id": "Q8VJEZ",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "salary": "1918 EUR"
+    },
+    {
+        "job_id": "RTO07G",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "1712 EUR"
+    },
+    {
+        "job_id": "NKFK8Y",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "1773 EUR"
+    },
+    {
+        "job_id": "1NAWNA",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "3322 EUR"
+    },
+    {
+        "job_id": "OZ0ZFW",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "2662 EUR"
+    },
+    {
+        "job_id": "SF0THA",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Munich",
+        "country": "Germany",
+        "salary": "1596 EUR"
+    },
+    {
+        "job_id": "UWE1Z2",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2785 EUR"
+    },
+    {
+        "job_id": "57I096",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "2080 EUR"
+    },
+    {
+        "job_id": "ZK9B75",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "2728 EUR"
+    },
+    {
+        "job_id": "JUC9MS",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "3214 EUR"
+    },
+    {
+        "job_id": "LQGAIY",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2350 EUR"
+    },
+    {
+        "job_id": "BN9CEZ",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "3144 EUR"
+    },
+    {
+        "job_id": "KFJG6U",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "2465 EUR"
+    },
+    {
+        "job_id": "BZVLV7",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "1680 EUR"
+    },
+    {
+        "job_id": "ITTCH9",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "3349 EUR"
+    },
+    {
+        "job_id": "5A9KWX",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3025 EUR"
+    },
+    {
+        "job_id": "VNGK8M",
+        "designation": "Software Developer",
+        "experience": "6 months",
+        "city": "Limerick",
+        "country": "Ireland",
+        "salary": "2872 EUR"
+    },
+    {
+        "job_id": "373VT7",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "1619 EUR"
+    },
+    {
+        "job_id": "5SRJ7T",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "1691 EUR"
+    },
+    {
+        "job_id": "DOPPAP",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1552 EUR"
+    },
+    {
+        "job_id": "9QZH6E",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "3078 EUR"
+    },
+    {
+        "job_id": "6EMR7W",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "1507 EUR"
+    },
+    {
+        "job_id": "I8OHD8",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "1984 EUR"
+    },
+    {
+        "job_id": "IBWKEL",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "1807 EUR"
+    },
+    {
+        "job_id": "PEN9EM",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "2441 EUR"
+    },
+    {
+        "job_id": "H3QP5T",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "3070 EUR"
+    },
+    {
+        "job_id": "7L2MQN",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2403 EUR"
+    },
+    {
+        "job_id": "R2YC02",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1882 EUR"
+    },
+    {
+        "job_id": "6FBGSA",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "1645 EUR"
+    },
+    {
+        "job_id": "X75WEB",
+        "designation": "Nurse",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2822 EUR"
+    },
+    {
+        "job_id": "LIYHV0",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2672 EUR"
+    },
+    {
+        "job_id": "PYBH2D",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "1507 EUR"
+    },
+    {
+        "job_id": "2WG3G6",
+        "designation": "Home Care Worker",
+        "experience": "1 year",
+        "city": "Marseille",
+        "country": "France",
+        "salary": "1823 EUR"
+    },
+    {
+        "job_id": "TOOSOV",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2760 EUR"
+    },
+    {
+        "job_id": "3GZDQ1",
+        "designation": "IT Support Specialist",
+        "experience": "6 months",
+        "city": "Ghent",
+        "country": "Belgium",
+        "salary": "2490 EUR"
+    },
+    {
+        "job_id": "8G4QQX",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "2288 EUR"
+    },
+    {
+        "job_id": "GOY0KH",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "3018 EUR"
+    },
+    {
+        "job_id": "0NK1SY",
+        "designation": "Elderly Caregiver",
+        "experience": "6 months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "2888 EUR"
+    },
+    {
+        "job_id": "TH7L9V",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Salzburg",
+        "country": "Austria",
+        "salary": "3209 EUR"
+    },
+    {
+        "job_id": "RG8NMP",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Lyon",
+        "country": "France",
+        "salary": "2868 EUR"
+    },
+    {
+        "job_id": "JSKBHJ",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "2370 EUR"
+    },
+    {
+        "job_id": "C1N4VA",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "2372 EUR"
+    },
+    {
+        "job_id": "VMF5CP",
+        "designation": "Home Care Worker",
+        "experience": "6 months",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "3236 EUR"
+    },
+    {
+        "job_id": "GPUNQF",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "3336 EUR"
+    },
+    {
+        "job_id": "BXKYDO",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Graz",
+        "country": "Austria",
+        "salary": "3046 EUR"
+    },
+    {
+        "job_id": "WG0CEH",
+        "designation": "Child Care Assistant",
+        "experience": "1 year",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "1912 EUR"
+    },
+    {
+        "job_id": "NMXZ71",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "3240 EUR"
+    },
+    {
+        "job_id": "KI4G9F",
+        "designation": "Child Care Assistant",
+        "experience": "6 months",
+        "city": "Espoo",
+        "country": "Finland",
+        "salary": "3436 EUR"
+    },
+    {
+        "job_id": "8UA6LG",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2111 EUR"
+    },
+    {
+        "job_id": "ZQXZCA",
+        "designation": "Medical Assistant",
+        "experience": "1 year",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "salary": "3012 EUR"
+    },
+    {
+        "job_id": "HZUO8Y",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "1954 EUR"
+    },
+    {
+        "job_id": "WDT1Z5",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Hamburg",
+        "country": "Germany",
+        "salary": "1644 EUR"
+    },
+    {
+        "job_id": "94XWYJ",
+        "designation": "Software Developer",
+        "experience": "1 year",
+        "city": "Paris",
+        "country": "France",
+        "salary": "1599 EUR"
+    },
+    {
+        "job_id": "4THR1W",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Trondheim",
+        "country": "Norway",
+        "salary": "1771 EUR"
+    },
+    {
+        "job_id": "E6YVG2",
+        "designation": "System Administrator",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2951 EUR"
+    },
+    {
+        "job_id": "Y7PPEI",
+        "designation": "Health Assistant",
+        "experience": "1 year",
+        "city": "Bergen",
+        "country": "Norway",
+        "salary": "2083 EUR"
+    },
+    {
+        "job_id": "RQHWFV",
+        "designation": "Elderly Caregiver",
+        "experience": "1 year",
+        "city": "Odense",
+        "country": "Denmark",
+        "salary": "3216 EUR"
+    },
+    {
+        "job_id": "IZ20XB",
+        "designation": "Data Analyst",
+        "experience": "6 months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "2860 EUR"
+    },
+    {
+        "job_id": "FP3ZDA",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "salary": "3413 EUR"
+    },
+    {
+        "job_id": "V2CGXL",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Tampere",
+        "country": "Finland",
+        "salary": "2458 EUR"
+    },
+    {
+        "job_id": "ZVYDXC",
+        "designation": "System Administrator",
+        "experience": "1 year",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "2259 EUR"
+    },
+    {
+        "job_id": "1UMQ7T",
+        "designation": "Medical Assistant",
+        "experience": "6 months",
+        "city": "Dublin",
+        "country": "Ireland",
+        "salary": "1724 EUR"
+    },
+    {
+        "job_id": "87PCLX",
+        "designation": "Data Analyst",
+        "experience": "1 year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "2565 EUR"
+    },
+    {
+        "job_id": "O72DNY",
+        "designation": "IT Support Specialist",
+        "experience": "1 year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "1732 EUR"
+    },
+    {
+        "job_id": "XTS14V",
+        "designation": "Health Assistant",
+        "experience": "6 months",
+        "city": "Cork",
+        "country": "Ireland",
+        "salary": "1904 EUR"
+    }
 ]
