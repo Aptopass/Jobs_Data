@@ -1695,5 +1695,773 @@
         "city": "Lisbon",
         "country": "Portugal",
         "salary": "\u20ac2200/month"
-    }
+    },
+    {
+    "jobId": "TDUHN0",
+    "designation": "Care Assistant",
+    "experience": "1 year",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "salary": "2095 EUR"
+  },
+  {
+    "jobId": "61SOQM",
+    "designation": "IT Support Specialist",
+    "experience": "1 year",
+    "city": "Berlin",
+    "country": "Germany",
+    "salary": "1685 EUR"
+  },
+  {
+    "jobId": "D10SYJ",
+    "designation": "Junior Database Administrator",
+    "experience": "1 year",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "salary": "2702 EUR"
+  },
+  {
+    "jobId": "A0YB01",
+    "designation": "Home Health Aide",
+    "experience": "1 year",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "salary": "2617 EUR"
+  },
+  {
+    "jobId": "AEFIPB",
+    "designation": "Support Worker",
+    "experience": "1 year",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "salary": "2301 EUR"
+  },
+  {
+    "jobId": "U2L0LC",
+    "designation": "Support Worker",
+    "experience": "6 months",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "salary": "2581 EUR"
+  },
+  {
+    "jobId": "SJNSE0",
+    "designation": "Junior Web Developer",
+    "experience": "6 months",
+    "city": "Vienna",
+    "country": "Austria",
+    "salary": "2195 EUR"
+  },
+  {
+    "jobId": "ERMFM9",
+    "designation": "IT Support Specialist",
+    "experience": "6 months",
+    "city": "Oslo",
+    "country": "Norway",
+    "salary": "3060 EUR"
+  },
+  {
+    "jobId": "R0U612",
+    "designation": "Home Nurse",
+    "experience": "6 months",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "salary": "1900 EUR"
+  },
+  {
+    "jobId": "2WJRYL",
+    "designation": "Junior Network Engineer",
+    "experience": "6 months",
+    "city": "Barcelona",
+    "country": "Spain",
+    "salary": "1756 EUR"
+  },
+  {
+    "jobId": "8QU5BL",
+    "designation": "Caregiver for Disabled",
+    "experience": "1 year",
+    "city": "Warsaw",
+    "country": "Poland",
+    "salary": "2913 EUR"
+  },
+  {
+    "jobId": "NDJGEA",
+    "designation": "IT Helpdesk Operator",
+    "experience": "1 year",
+    "city": "Warsaw",
+    "country": "Poland",
+    "salary": "2619 EUR"
+  },
+  {
+    "jobId": "3CKIP1",
+    "designation": "Caregiver for Disabled",
+    "experience": "6 months",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "salary": "1901 EUR"
+  },
+  {
+    "jobId": "AZK2HZ",
+    "designation": "Technical Support Analyst",
+    "experience": "6 months",
+    "city": "Athens",
+    "country": "Greece",
+    "salary": "2172 EUR"
+  },
+  {
+    "jobId": "VUU8D8",
+    "designation": "Childcare Assistant",
+    "experience": "6 months",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "salary": "2026 EUR"
+  },
+  {
+    "jobId": "62YKLU",
+    "designation": "Home Nurse",
+    "experience": "1 year",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "salary": "2356 EUR"
+  },
+  {
+    "jobId": "NWGQ85",
+    "designation": "IT Support Specialist",
+    "experience": "1 year",
+    "city": "Rome",
+    "country": "Italy",
+    "salary": "2507 EUR"
+  },
+  {
+    "jobId": "A0RVQ7",
+    "designation": "Personal Support Worker",
+    "experience": "6 months",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "salary": "1870 EUR"
+  },
+  {
+    "jobId": "CYXHDZ",
+    "designation": "Healthcare Aide",
+    "experience": "1 year",
+    "city": "Dublin",
+    "country": "Ireland",
+    "salary": "2121 EUR"
+  },
+  {
+    "jobId": "1HOP1J",
+    "designation": "Elder Companion",
+    "experience": "6 months",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "salary": "1855 EUR"
+  },
+  {
+    "jobId": "VG8BK4",
+    "designation": "Home Nurse",
+    "experience": "6 months",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "salary": "2098 EUR"
+  },
+  {
+    "jobId": "Z3ERGV",
+    "designation": "Patient Care Aide",
+    "experience": "6 months",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "salary": "1780 EUR"
+  },
+  {
+    "jobId": "UXZHU8",
+    "designation": "Junior Cybersecurity Analyst",
+    "experience": "1 year",
+    "city": "Oslo",
+    "country": "Norway",
+    "salary": "1809 EUR"
+  },
+  {
+    "jobId": "MMVEBC",
+    "designation": "Patient Care Aide",
+    "experience": "1 year",
+    "city": "Riga",
+    "country": "Latvia",
+    "salary": "2349 EUR"
+  },
+  {
+    "jobId": "2PDEVD",
+    "designation": "Clinical Assistant",
+    "experience": "6 months",
+    "city": "Riga",
+    "country": "Latvia",
+    "salary": "2646 EUR"
+  },
+  {
+    "jobId": "Y6CVUY",
+    "designation": "Elderly Care Worker",
+    "experience": "6 months",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "salary": "3038 EUR"
+  },
+  {
+    "jobId": "UIC02P",
+    "designation": "Technical Support Analyst",
+    "experience": "1 year",
+    "city": "Brussels",
+    "country": "Belgium",
+    "salary": "2021 EUR"
+  },
+  {
+    "jobId": "NVV568",
+    "designation": "Personal Support Worker",
+    "experience": "1 year",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "salary": "2996 EUR"
+  },
+  {
+    "jobId": "LJ4D6A",
+    "designation": "Caregiver for Disabled",
+    "experience": "6 months",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "salary": "2824 EUR"
+  },
+  {
+    "jobId": "M7UVAL",
+    "designation": "Technical Support Analyst",
+    "experience": "6 months",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "salary": "3073 EUR"
+  },
+  {
+    "jobId": "J1VQSJ",
+    "designation": "Nursing Assistant",
+    "experience": "1 year",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "salary": "2509 EUR"
+  },
+  {
+    "jobId": "HZHNTE",
+    "designation": "IT Support Specialist",
+    "experience": "6 months",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "salary": "2317 EUR"
+  },
+  {
+    "jobId": "XRN0F9",
+    "designation": "Junior UI/UX Designer",
+    "experience": "6 months",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "salary": "1628 EUR"
+  },
+  {
+    "jobId": "Y8J6QR",
+    "designation": "Nursing Assistant",
+    "experience": "1 year",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "salary": "2922 EUR"
+  },
+  {
+    "jobId": "DTGZUK",
+    "designation": "Junior Database Administrator",
+    "experience": "1 year",
+    "city": "Paris",
+    "country": "France",
+    "salary": "1759 EUR"
+  },
+  {
+    "jobId": "3NJRAE",
+    "designation": "Personal Support Worker",
+    "experience": "1 year",
+    "city": "Riga",
+    "country": "Latvia",
+    "salary": "2057 EUR"
+  },
+  {
+    "jobId": "NV8NEE",
+    "designation": "Care Assistant",
+    "experience": "1 year",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "salary": "1809 EUR"
+  },
+  {
+    "jobId": "1U4ZMO",
+    "designation": "IT Intern",
+    "experience": "6 months",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "salary": "2195 EUR"
+  },
+  {
+    "jobId": "QJNNBQ",
+    "designation": "Clinical Assistant",
+    "experience": "1 year",
+    "city": "Dublin",
+    "country": "Ireland",
+    "salary": "1843 EUR"
+  },
+  {
+    "jobId": "OLOTBO",
+    "designation": "Caregiver for Disabled",
+    "experience": "1 year",
+    "city": "Valletta",
+    "country": "Malta",
+    "salary": "2976 EUR"
+  },
+  {
+    "jobId": "U3R2FB",
+    "designation": "Rehabilitation Worker",
+    "experience": "1 year",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "salary": "1746 EUR"
+  },
+  {
+    "jobId": "WD66MQ",
+    "designation": "Health Care Assistant",
+    "experience": "6 months",
+    "city": "Vienna",
+    "country": "Austria",
+    "salary": "2588 EUR"
+  },
+  {
+    "jobId": "AJ0GIS",
+    "designation": "Patient Care Aide",
+    "experience": "6 months",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "salary": "2417 EUR"
+  },
+  {
+    "jobId": "0MN1KV",
+    "designation": "IT Intern",
+    "experience": "1 year",
+    "city": "Rome",
+    "country": "Italy",
+    "salary": "1810 EUR"
+  },
+  {
+    "jobId": "4Y760A",
+    "designation": "Junior Database Administrator",
+    "experience": "6 months",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "salary": "2205 EUR"
+  },
+  {
+    "jobId": "GAI1OX",
+    "designation": "Clinical Assistant",
+    "experience": "1 year",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "salary": "3047 EUR"
+  },
+  {
+    "jobId": "67WKBW",
+    "designation": "Personal Support Worker",
+    "experience": "6 months",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "salary": "2299 EUR"
+  },
+  {
+    "jobId": "PR4YW4",
+    "designation": "Junior Database Administrator",
+    "experience": "6 months",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "salary": "2815 EUR"
+  },
+  {
+    "jobId": "M4LCBP",
+    "designation": "Rehabilitation Worker",
+    "experience": "1 year",
+    "city": "Brussels",
+    "country": "Belgium",
+    "salary": "1814 EUR"
+  },
+  {
+    "jobId": "WL33LP",
+    "designation": "Support Worker",
+    "experience": "6 months",
+    "city": "Athens",
+    "country": "Greece",
+    "salary": "1640 EUR"
+  },
+  {
+    "jobId": "XO5EAW",
+    "designation": "Software Developer (Junior)",
+    "experience": "1 year",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "salary": "1898 EUR"
+  },
+  {
+    "jobId": "U2QK6Z",
+    "designation": "Junior Cybersecurity Analyst",
+    "experience": "1 year",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "salary": "2099 EUR"
+  },
+  {
+    "jobId": "5BZMVY",
+    "designation": "IT Technician",
+    "experience": "1 year",
+    "city": "Valletta",
+    "country": "Malta",
+    "salary": "1699 EUR"
+  },
+  {
+    "jobId": "XC5OPG",
+    "designation": "Junior UI/UX Designer",
+    "experience": "6 months",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "salary": "2262 EUR"
+  },
+  {
+    "jobId": "EO4O6S",
+    "designation": "Care Assistant",
+    "experience": "6 months",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "salary": "1653 EUR"
+  },
+  {
+    "jobId": "RF2Y3X",
+    "designation": "IT Support Specialist",
+    "experience": "1 year",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "salary": "2046 EUR"
+  },
+  {
+    "jobId": "537XND",
+    "designation": "Care Assistant",
+    "experience": "1 year",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "salary": "3023 EUR"
+  },
+  {
+    "jobId": "9XKRDD",
+    "designation": "Childcare Assistant",
+    "experience": "1 year",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "salary": "2007 EUR"
+  },
+  {
+    "jobId": "BXLU9U",
+    "designation": "Health Care Assistant",
+    "experience": "6 months",
+    "city": "Valletta",
+    "country": "Malta",
+    "salary": "1995 EUR"
+  },
+  {
+    "jobId": "5UN3QQ",
+    "designation": "Caregiver for Disabled",
+    "experience": "6 months",
+    "city": "Paris",
+    "country": "France",
+    "salary": "2582 EUR"
+  },
+  {
+    "jobId": "MN9MAC",
+    "designation": "Junior Database Administrator",
+    "experience": "1 year",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "salary": "2164 EUR"
+  },
+  {
+    "jobId": "LGN7RC",
+    "designation": "Nursing Assistant",
+    "experience": "1 year",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "salary": "3017 EUR"
+  },
+  {
+    "jobId": "QRGE5D",
+    "designation": "Software Developer (Junior)",
+    "experience": "1 year",
+    "city": "Rome",
+    "country": "Italy",
+    "salary": "2347 EUR"
+  },
+  {
+    "jobId": "Y19ST9",
+    "designation": "Healthcare Aide",
+    "experience": "6 months",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "salary": "2111 EUR"
+  },
+  {
+    "jobId": "8TSEAP",
+    "designation": "Live-in Caregiver",
+    "experience": "6 months",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "salary": "1829 EUR"
+  },
+  {
+    "jobId": "G1ZWGI",
+    "designation": "IT Helpdesk Operator",
+    "experience": "6 months",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "salary": "2908 EUR"
+  },
+  {
+    "jobId": "40ZPA3",
+    "designation": "IT Technician",
+    "experience": "6 months",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "salary": "2038 EUR"
+  },
+  {
+    "jobId": "HEW4J6",
+    "designation": "Live-in Caregiver",
+    "experience": "1 year",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "salary": "2080 EUR"
+  },
+  {
+    "jobId": "G6OEPU",
+    "designation": "IT Support Specialist",
+    "experience": "6 months",
+    "city": "Dublin",
+    "country": "Ireland",
+    "salary": "1821 EUR"
+  },
+  {
+    "jobId": "4XJIKO",
+    "designation": "Rehabilitation Worker",
+    "experience": "6 months",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "salary": "1601 EUR"
+  },
+  {
+    "jobId": "Y7WSLW",
+    "designation": "Junior UI/UX Designer",
+    "experience": "6 months",
+    "city": "Berlin",
+    "country": "Germany",
+    "salary": "2880 EUR"
+  },
+  {
+    "jobId": "9VHZMO",
+    "designation": "Healthcare Aide",
+    "experience": "6 months",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "salary": "1786 EUR"
+  },
+  {
+    "jobId": "6C206U",
+    "designation": "Nursing Assistant",
+    "experience": "1 year",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "salary": "2938 EUR"
+  },
+  {
+    "jobId": "BU48LS",
+    "designation": "Childcare Assistant",
+    "experience": "1 year",
+    "city": "Berlin",
+    "country": "Germany",
+    "salary": "2638 EUR"
+  },
+  {
+    "jobId": "BYBSPE",
+    "designation": "IT Intern",
+    "experience": "6 months",
+    "city": "Berlin",
+    "country": "Germany",
+    "salary": "2658 EUR"
+  },
+  {
+    "jobId": "PVS308",
+    "designation": "Software Developer (Junior)",
+    "experience": "1 year",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "salary": "2813 EUR"
+  },
+  {
+    "jobId": "G0Q4DD",
+    "designation": "Technical Support Analyst",
+    "experience": "6 months",
+    "city": "Helsinki",
+    "country": "Finland",
+    "salary": "1989 EUR"
+  },
+  {
+    "jobId": "VUBXN3",
+    "designation": "Support Worker",
+    "experience": "1 year",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "salary": "1813 EUR"
+  },
+  {
+    "jobId": "5BHVT2",
+    "designation": "Junior UI/UX Designer",
+    "experience": "6 months",
+    "city": "Riga",
+    "country": "Latvia",
+    "salary": "2996 EUR"
+  },
+  {
+    "jobId": "OCE37Q",
+    "designation": "Live-in Caregiver",
+    "experience": "1 year",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "salary": "2680 EUR"
+  },
+  {
+    "jobId": "EBOAT2",
+    "designation": "Home Health Aide",
+    "experience": "1 year",
+    "city": "Dublin",
+    "country": "Ireland",
+    "salary": "2435 EUR"
+  },
+  {
+    "jobId": "H4DAR2",
+    "designation": "Childcare Assistant",
+    "experience": "6 months",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "salary": "2600 EUR"
+  },
+  {
+    "jobId": "6JUFD9",
+    "designation": "Care Assistant",
+    "experience": "1 year",
+    "city": "Budapest",
+    "country": "Hungary",
+    "salary": "2185 EUR"
+  },
+  {
+    "jobId": "4JD0ZZ",
+    "designation": "Elder Companion",
+    "experience": "6 months",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "salary": "2731 EUR"
+  },
+  {
+    "jobId": "K7RPKV",
+    "designation": "Childcare Assistant",
+    "experience": "6 months",
+    "city": "Vienna",
+    "country": "Austria",
+    "salary": "2178 EUR"
+  },
+  {
+    "jobId": "9LWG68",
+    "designation": "Technical Support Analyst",
+    "experience": "1 year",
+    "city": "Brussels",
+    "country": "Belgium",
+    "salary": "2912 EUR"
+  },
+  {
+    "jobId": "9123PT",
+    "designation": "IT Support Specialist",
+    "experience": "6 months",
+    "city": "Dublin",
+    "country": "Ireland",
+    "salary": "2345 EUR"
+  },
+  {
+    "jobId": "2E68IV",
+    "designation": "IT Support Specialist",
+    "experience": "6 months",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "salary": "2637 EUR"
+  },
+  {
+    "jobId": "24S0IL",
+    "designation": "Rehabilitation Worker",
+    "experience": "1 year",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "salary": "2331 EUR"
+  },
+  {
+    "jobId": "0J521K",
+    "designation": "Junior Cybersecurity Analyst",
+    "experience": "1 year",
+    "city": "Brussels",
+    "country": "Belgium",
+    "salary": "1857 EUR"
+  },
+  {
+    "jobId": "4394YM",
+    "designation": "IT Support Specialist",
+    "experience": "1 year",
+    "city": "Brussels",
+    "country": "Belgium",
+    "salary": "3087 EUR"
+  },
+  {
+    "jobId": "9F1FUC",
+    "designation": "Software Developer (Junior)",
+    "experience": "6 months",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "salary": "1975 EUR"
+  },
+  {
+    "jobId": "NU7Z4R",
+    "designation": "Personal Support Worker",
+    "experience": "6 months",
+    "city": "Brussels",
+    "country": "Belgium",
+    "salary": "2382 EUR"
+  },
+  {
+    "jobId": "N2Z70N",
+    "designation": "Junior Database Administrator",
+    "experience": "1 year",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "salary": "2311 EUR"
+  },
+  {
+    "jobId": "DJQBLQ",
+    "designation": "IT Technician",
+    "experience": "1 year",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "salary": "2132 EUR"
+  },
+  {
+    "jobId": "LX6W8O",
+    "designation": "Clinical Assistant",
+    "experience": "6 months",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "salary": "3077 EUR"
+  }
 ]
