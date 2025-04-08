@@ -1,5 +1,166 @@
 [
   {
+    "jobId": "J1A2B3",
+    "designation": "Care Assistant",
+    "experience": "6 months",
+    "city": "Berlin",
+    "country": "Germany",
+    "salary": "1,800 EUR"
+  },
+  {
+    "jobId": "C3D4E5",
+    "designation": "Elderly Care Worker",
+    "experience": "1 year",
+    "city": "Oslo",
+    "country": "Norway",
+    "salary": "2,100 EUR"
+  },
+  {
+    "jobId": "F6G7H8",
+    "designation": "IT Support Specialist",
+    "experience": "1 year",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "salary": "2,500 EUR"
+  },
+  {
+    "jobId": "I9J0K1",
+    "designation": "Childcare Assistant",
+    "experience": "6 months",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "salary": "2,000 EUR"
+  },
+  {
+    "jobId": "L2M3N4",
+    "designation": "Home Nurse",
+    "experience": "1 year",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "salary": "3,100 EUR"
+  },
+  {
+    "jobId": "O5P6Q7",
+    "designation": "Health Care Assistant",
+    "experience": "6 months",
+    "city": "Vienna",
+    "country": "Austria",
+    "salary": "2,200 EUR"
+  },
+  {
+    "jobId": "R8S9T0",
+    "designation": "Live-in Caregiver",
+    "experience": "1 year",
+    "city": "Brussels",
+    "country": "Belgium",
+    "salary": "2,300 EUR"
+  },
+  {
+    "jobId": "U1V2W3",
+    "designation": "Software Developer (Junior)",
+    "experience": "1 year",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "salary": "3,000 EUR"
+  },
+  {
+    "jobId": "X4Y5Z6",
+    "designation": "IT Technician",
+    "experience": "6 months",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "salary": "2,100 EUR"
+  },
+  {
+    "jobId": "A7B8C9",
+    "designation": "Personal Support Worker",
+    "experience": "1 year",
+    "city": "Helsinki",
+    "country": "Finland",
+    "salary": "2,250 EUR"
+  },
+  {
+    "jobId": "D0E1F2",
+    "designation": "Junior Network Engineer",
+    "experience": "6 months",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "salary": "2,000 EUR"
+  },
+  {
+    "jobId": "G3H4I5",
+    "designation": "IT Helpdesk Operator",
+    "experience": "6 months",
+    "city": "Riga",
+    "country": "Latvia",
+    "salary": "1,900 EUR"
+  },
+  {
+    "jobId": "J6K7L8",
+    "designation": "Medical Assistant",
+    "experience": "1 year",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "salary": "1,600 EUR"
+  },
+  {
+    "jobId": "M9N0O1",
+    "designation": "Nursing Assistant",
+    "experience": "6 months",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "salary": "1,700 EUR"
+  },
+  {
+    "jobId": "P2Q3R4",
+    "designation": "Rehabilitation Worker",
+    "experience": "1 year",
+    "city": "Athens",
+    "country": "Greece",
+    "salary": "1,850 EUR"
+  },
+  {
+    "jobId": "S5T6U7",
+    "designation": "Junior Web Developer",
+    "experience": "1 year",
+    "city": "Barcelona",
+    "country": "Spain",
+    "salary": "2,400 EUR"
+  },
+  {
+    "jobId": "V8W9X0",
+    "designation": "Patient Care Aide",
+    "experience": "6 months",
+    "city": "Rome",
+    "country": "Italy",
+    "salary": "1,800 EUR"
+  },
+  {
+    "jobId": "Y1Z2A3",
+    "designation": "Junior UI/UX Designer",
+    "experience": "1 year",
+    "city": "Paris",
+    "country": "France",
+    "salary": "2,600 EUR"
+  },
+  {
+    "jobId": "B4C5D6",
+    "designation": "Caregiver for Disabled",
+    "experience": "1 year",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "salary": "2,100 EUR"
+  },
+  {
+    "jobId": "E7F8G9",
+    "designation": "Elder Companion",
+    "experience": "6 months",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "salary": "1,700 EUR"
+  },
+
+  {
     "id": "SPVVQI",
     "designation": "IT Support Engineer",
     "experience": "5 years",
