@@ -768,771 +768,771 @@
     "salary": "2500 EUR"
   },
  {
-        "id": "Z1UKGH",
+        "id": "RTYQW3",
         "designation": "Elderly Support Worker",
-        "experience": "6 Months",
-        "city": "Stockholm",
-        "country": "Sweden",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "O4R9GI",
-        "designation": "Junior Developer",
-        "experience": "6 Months",
-        "city": "Brussels",
-        "country": "Belgium",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "7SJU2R",
-        "designation": "Personal Health Aide",
-        "experience": "1 Year",
+        "experience": "3 Years",
         "city": "Berlin",
         "country": "Germany",
-        "salary": "$2000/month"
+        "salary": "\u20ac2600/month"
     },
     {
-        "id": "DG7FUV",
-        "designation": "Personal Health Aide",
-        "experience": "1 Year",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "H7SGOZ",
-        "designation": "Home Care Assistant",
-        "experience": "6 Months",
-        "city": "Madrid",
-        "country": "Spain",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "2SCKGP",
-        "designation": "Nursing Assistant",
-        "experience": "3 Years",
-        "city": "Paris",
-        "country": "France",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "A1X25C",
-        "designation": "Personal Health Aide",
-        "experience": "1 Year",
-        "city": "Stockholm",
-        "country": "Sweden",
-        "salary": "$2400/month"
-    },
-    {
-        "id": "T3PFLB",
+        "id": "DSEZ2F",
         "designation": "Child Care Attendant",
-        "experience": "1 Year",
-        "city": "Berlin",
-        "country": "Germany",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "V2SW9U",
-        "designation": "Personal Health Aide",
-        "experience": "1 Year",
-        "city": "Vienna",
-        "country": "Austria",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "IJSLNS",
-        "designation": "Care Coordinator",
         "experience": "3 Years",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$2200/month"
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "WKOQ8H",
-        "designation": "Rehabilitation Assistant",
-        "experience": "3 Years",
-        "city": "Stockholm",
-        "country": "Sweden",
-        "salary": "$2400/month"
-    },
-    {
-        "id": "VLU3YT",
-        "designation": "IT Support Technician",
-        "experience": "6 Months",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "AT96EB",
-        "designation": "Elderly Support Worker",
-        "experience": "6 Months",
-        "city": "Stockholm",
-        "country": "Sweden",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "IA7YJD",
+        "id": "H0Z95Y",
         "designation": "Home Care Assistant",
-        "experience": "1 Year",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "M4G8K6",
-        "designation": "Personal Health Aide",
-        "experience": "2 Years",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "6Z2YS8",
-        "designation": "IT Support Technician",
-        "experience": "1 Year",
-        "city": "Paris",
-        "country": "France",
-        "salary": "$2400/month"
-    },
-    {
-        "id": "9YY0K7",
-        "designation": "Personal Health Aide",
-        "experience": "1 Year",
-        "city": "Stockholm",
-        "country": "Sweden",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "2AMHB9",
-        "designation": "Rehabilitation Assistant",
         "experience": "6 Months",
         "city": "Helsinki",
         "country": "Finland",
-        "salary": "$2000/month"
+        "salary": "\u20ac2200/month"
     },
     {
-        "id": "3DM43V",
-        "designation": "Healthcare Receptionist",
+        "id": "OA6M06",
+        "designation": "Care Coordinator",
         "experience": "6 Months",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$1800/month"
+        "city": "Zurich",
+        "country": "Switzerland",
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "WEOMWL",
-        "designation": "Junior Web Designer",
+        "id": "T77ICF",
+        "designation": "Child Care Attendant",
+        "experience": "6 Months",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "YQRLS0",
+        "designation": "Data Entry Clerk",
+        "experience": "2 Years",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "RDOXOB",
+        "designation": "Healthcare Receptionist",
+        "experience": "1 Year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "EN17RU",
+        "designation": "IT Support Technician",
+        "experience": "1 Year",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "SVXNR6",
+        "designation": "Healthcare Receptionist",
+        "experience": "2 Years",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "6S1PJY",
+        "designation": "Data Entry Clerk",
+        "experience": "6 Months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "1J5VTZ",
+        "designation": "Rehabilitation Assistant",
+        "experience": "1 Year",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "6948LX",
+        "designation": "Nursing Assistant",
         "experience": "6 Months",
         "city": "Madrid",
         "country": "Spain",
-        "salary": "$2400/month"
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "L0N8AX",
-        "designation": "Healthcare Receptionist",
-        "experience": "1 Year",
-        "city": "Brussels",
-        "country": "Belgium",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "52I8D2",
+        "id": "UOEHHG",
         "designation": "Junior Developer",
-        "experience": "3 Years",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$2200/month"
+        "experience": "6 Months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "\u20ac2400/month"
     },
     {
-        "id": "HXA1WH",
-        "designation": "Junior Developer",
+        "id": "3ICW89",
+        "designation": "Elderly Support Worker",
         "experience": "6 Months",
         "city": "Vienna",
         "country": "Austria",
-        "salary": "$2000/month"
+        "salary": "\u20ac2600/month"
     },
     {
-        "id": "VAMJ7C",
-        "designation": "Junior Developer",
-        "experience": "2 Years",
-        "city": "Berlin",
-        "country": "Germany",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "GNI8O2",
-        "designation": "Nursing Assistant",
-        "experience": "1 Year",
-        "city": "Copenhagen",
-        "country": "Denmark",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "ORLMM9",
-        "designation": "Care Coordinator",
-        "experience": "6 Months",
-        "city": "Paris",
-        "country": "France",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "6KY80M",
-        "designation": "Junior Web Designer",
-        "experience": "6 Months",
-        "city": "Paris",
-        "country": "France",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "1LB60J",
-        "designation": "Personal Health Aide",
-        "experience": "2 Years",
-        "city": "Madrid",
-        "country": "Spain",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "FWYS1G",
-        "designation": "Junior Developer",
-        "experience": "1 Year",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "HH7IL3",
-        "designation": "Elderly Support Worker",
-        "experience": "6 Months",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "30G2ED",
-        "designation": "Healthcare Receptionist",
-        "experience": "6 Months",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "835FHJ",
+        "id": "9W56RR",
         "designation": "Rehabilitation Assistant",
+        "experience": "6 Months",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "XEF8D9",
+        "designation": "Personal Health Aide",
+        "experience": "6 Months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "3WBSSB",
+        "designation": "Healthcare Receptionist",
         "experience": "6 Months",
         "city": "Brussels",
         "country": "Belgium",
-        "salary": "$2600/month"
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "5JGA6L",
-        "designation": "Junior Web Designer",
+        "id": "L0LINM",
+        "designation": "Healthcare Receptionist",
         "experience": "6 Months",
+        "city": "Madrid",
+        "country": "Spain",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "AQLDU5",
+        "designation": "IT Support Technician",
+        "experience": "1 Year",
         "city": "Amsterdam",
         "country": "Netherlands",
-        "salary": "$2000/month"
+        "salary": "\u20ac2800/month"
     },
     {
-        "id": "900B4U",
-        "designation": "Child Care Attendant",
+        "id": "OD9XCM",
+        "designation": "Personal Health Aide",
+        "experience": "6 Months",
+        "city": "Paris",
+        "country": "France",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "4MRVY0",
+        "designation": "Nursing Assistant",
+        "experience": "1 Year",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "EUOVSW",
+        "designation": "Nursing Assistant",
+        "experience": "2 Years",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "LTCY7X",
+        "designation": "Data Entry Clerk",
+        "experience": "6 Months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "F1G664",
+        "designation": "Rehabilitation Assistant",
+        "experience": "1 Year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac1800/month"
+    },
+    {
+        "id": "5WBTPU",
+        "designation": "Home Care Assistant",
+        "experience": "6 Months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "CYOF50",
+        "designation": "Nursing Assistant",
+        "experience": "6 Months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "6KA062",
+        "designation": "Home Care Assistant",
         "experience": "1 Year",
         "city": "Helsinki",
         "country": "Finland",
-        "salary": "$2400/month"
+        "salary": "\u20ac2600/month"
     },
     {
-        "id": "C9D3DQ",
+        "id": "GSRER4",
         "designation": "IT Support Technician",
+        "experience": "1 Year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "GUW2WT",
+        "designation": "Elderly Support Worker",
+        "experience": "1 Year",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "G9RHNE",
+        "designation": "Elderly Support Worker",
+        "experience": "6 Months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "DK9YHV",
+        "designation": "Data Entry Clerk",
+        "experience": "1 Year",
+        "city": "Madrid",
+        "country": "Spain",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "K9LVI9",
+        "designation": "Care Coordinator",
+        "experience": "3 Years",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "700CEW",
+        "designation": "Child Care Attendant",
+        "experience": "1 Year",
+        "city": "Paris",
+        "country": "France",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "8Z6YI7",
+        "designation": "Junior Web Designer",
+        "experience": "6 Months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "WJYQ1B",
+        "designation": "Nursing Assistant",
+        "experience": "3 Years",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "O87JGW",
+        "designation": "Junior Web Designer",
+        "experience": "3 Years",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "JPCI4X",
+        "designation": "Care Coordinator",
+        "experience": "6 Months",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "93HEGB",
+        "designation": "Junior Web Designer",
+        "experience": "6 Months",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "\u20ac1800/month"
+    },
+    {
+        "id": "VJE2OK",
+        "designation": "Rehabilitation Assistant",
+        "experience": "2 Years",
+        "city": "Paris",
+        "country": "France",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "UH4M17",
+        "designation": "Personal Health Aide",
+        "experience": "1 Year",
+        "city": "Paris",
+        "country": "France",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "K0X58T",
+        "designation": "Child Care Attendant",
+        "experience": "6 Months",
+        "city": "Madrid",
+        "country": "Spain",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "55PEEY",
+        "designation": "IT Support Technician",
+        "experience": "1 Year",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "YA78LQ",
+        "designation": "Data Entry Clerk",
         "experience": "1 Year",
         "city": "Lisbon",
         "country": "Portugal",
-        "salary": "$2200/month"
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "2USU59",
-        "designation": "Home Care Assistant",
-        "experience": "1 Year",
-        "city": "Copenhagen",
-        "country": "Denmark",
-        "salary": "$1800/month"
+        "id": "W86B40",
+        "designation": "Rehabilitation Assistant",
+        "experience": "6 Months",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "salary": "\u20ac2000/month"
     },
     {
-        "id": "84OJIM",
-        "designation": "Care Coordinator",
+        "id": "PXQ51E",
+        "designation": "IT Support Technician",
+        "experience": "6 Months",
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "\u20ac1800/month"
+    },
+    {
+        "id": "MEW42G",
+        "designation": "Junior Developer",
         "experience": "3 Years",
         "city": "Berlin",
         "country": "Germany",
-        "salary": "$2800/month"
+        "salary": "\u20ac2600/month"
     },
     {
-        "id": "5OA3AN",
-        "designation": "IT Support Technician",
-        "experience": "6 Months",
-        "city": "Paris",
-        "country": "France",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "RKF7PW",
-        "designation": "Healthcare Receptionist",
-        "experience": "1 Year",
-        "city": "Brussels",
-        "country": "Belgium",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "OW5U30",
-        "designation": "IT Support Technician",
-        "experience": "6 Months",
+        "id": "L7AU1S",
+        "designation": "Child Care Attendant",
+        "experience": "3 Years",
         "city": "Helsinki",
         "country": "Finland",
-        "salary": "$2200/month"
+        "salary": "\u20ac2800/month"
     },
     {
-        "id": "XU3YRO",
-        "designation": "Elderly Support Worker",
+        "id": "U9B5JB",
+        "designation": "Child Care Attendant",
         "experience": "6 Months",
-        "city": "Copenhagen",
-        "country": "Denmark",
-        "salary": "$1800/month"
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac2200/month"
     },
     {
-        "id": "GD6EO1",
+        "id": "OU5SDE",
+        "designation": "IT Support Technician",
+        "experience": "6 Months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "NYFNLM",
+        "designation": "Junior Web Designer",
+        "experience": "6 Months",
+        "city": "Madrid",
+        "country": "Spain",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "E43G1Q",
+        "designation": "Personal Health Aide",
+        "experience": "3 Years",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "H12HEZ",
+        "designation": "Data Entry Clerk",
+        "experience": "6 Months",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "N4SZO6",
+        "designation": "Elderly Support Worker",
+        "experience": "1 Year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "VWNER9",
+        "designation": "Junior Web Designer",
+        "experience": "2 Years",
+        "city": "Helsinki",
+        "country": "Finland",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "EO099G",
+        "designation": "Care Coordinator",
+        "experience": "6 Months",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac1800/month"
+    },
+    {
+        "id": "FCVGJM",
+        "designation": "Junior Web Designer",
+        "experience": "1 Year",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "MZFV3J",
+        "designation": "Elderly Support Worker",
+        "experience": "3 Years",
+        "city": "Madrid",
+        "country": "Spain",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "BH3C12",
         "designation": "Data Entry Clerk",
         "experience": "6 Months",
         "city": "Paris",
         "country": "France",
-        "salary": "$2200/month"
+        "salary": "\u20ac2600/month"
     },
     {
-        "id": "LZUUZU",
-        "designation": "Child Care Attendant",
-        "experience": "1 Year",
+        "id": "UF4XA3",
+        "designation": "Elderly Support Worker",
+        "experience": "2 Years",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "ZY84V8",
+        "designation": "Data Entry Clerk",
+        "experience": "2 Years",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "C3Q5RX",
+        "designation": "Nursing Assistant",
+        "experience": "6 Months",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "salary": "\u20ac1800/month"
+    },
+    {
+        "id": "H10MHZ",
+        "designation": "Data Entry Clerk",
+        "experience": "2 Years",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "\u20ac1800/month"
+    },
+    {
+        "id": "6LUFFL",
+        "designation": "Elderly Support Worker",
+        "experience": "6 Months",
         "city": "Helsinki",
         "country": "Finland",
-        "salary": "$2800/month"
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "S3V4G6",
-        "designation": "Rehabilitation Assistant",
+        "id": "KEIUUF",
+        "designation": "Home Care Assistant",
         "experience": "1 Year",
         "city": "Vienna",
         "country": "Austria",
-        "salary": "$2400/month"
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "76LDN9",
-        "designation": "Junior Web Designer",
+        "id": "ULR3HZ",
+        "designation": "Elderly Support Worker",
         "experience": "1 Year",
-        "city": "Paris",
-        "country": "France",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "ASR75G",
-        "designation": "Healthcare Receptionist",
-        "experience": "3 Years",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "PMQPOT",
-        "designation": "Child Care Attendant",
-        "experience": "1 Year",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "9EQK9J",
-        "designation": "Junior Developer",
-        "experience": "6 Months",
         "city": "Amsterdam",
         "country": "Netherlands",
-        "salary": "$1800/month"
+        "salary": "\u20ac2000/month"
     },
     {
-        "id": "HP56PD",
-        "designation": "IT Support Technician",
-        "experience": "6 Months",
-        "city": "Helsinki",
-        "country": "Finland",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "9XJ0T4",
-        "designation": "Data Entry Clerk",
-        "experience": "6 Months",
+        "id": "WE7G34",
+        "designation": "Junior Developer",
+        "experience": "2 Years",
         "city": "Stockholm",
         "country": "Sweden",
-        "salary": "$2600/month"
+        "salary": "\u20ac2800/month"
     },
     {
-        "id": "GF51SB",
+        "id": "D6DXOL",
+        "designation": "Personal Health Aide",
+        "experience": "2 Years",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "BHYKRL",
         "designation": "Healthcare Receptionist",
         "experience": "1 Year",
         "city": "Vienna",
         "country": "Austria",
-        "salary": "$2600/month"
+        "salary": "\u20ac2200/month"
     },
     {
-        "id": "V08ZSC",
+        "id": "DGIE77",
         "designation": "Healthcare Receptionist",
         "experience": "1 Year",
-        "city": "Helsinki",
-        "country": "Finland",
-        "salary": "$2000/month"
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "77R066",
-        "designation": "Care Coordinator",
+        "id": "451G4P",
+        "designation": "Data Entry Clerk",
+        "experience": "1 Year",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "5MN5VC",
+        "designation": "Home Care Assistant",
+        "experience": "6 Months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "\u20ac2800/month"
+    },
+    {
+        "id": "LWVADL",
+        "designation": "Nursing Assistant",
         "experience": "6 Months",
         "city": "Berlin",
         "country": "Germany",
-        "salary": "$2200/month"
+        "salary": "\u20ac2200/month"
     },
     {
-        "id": "GM64FX",
+        "id": "9RBCV1",
+        "designation": "Home Care Assistant",
+        "experience": "3 Years",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "salary": "\u20ac2200/month"
+    },
+    {
+        "id": "HKBY1S",
         "designation": "Rehabilitation Assistant",
         "experience": "1 Year",
         "city": "Berlin",
         "country": "Germany",
-        "salary": "$2800/month"
+        "salary": "\u20ac2600/month"
     },
     {
-        "id": "LK7UTJ",
-        "designation": "Child Care Attendant",
-        "experience": "1 Year",
-        "city": "Copenhagen",
-        "country": "Denmark",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "UR2ZA0",
-        "designation": "Care Coordinator",
+        "id": "1AC8KO",
+        "designation": "IT Support Technician",
         "experience": "6 Months",
-        "city": "Helsinki",
-        "country": "Finland",
-        "salary": "$2000/month"
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "\u20ac2200/month"
     },
     {
-        "id": "4U5AKX",
-        "designation": "Junior Web Designer",
+        "id": "VT67XB",
+        "designation": "Personal Health Aide",
         "experience": "1 Year",
-        "city": "Berlin",
-        "country": "Germany",
-        "salary": "$2000/month"
+        "city": "Vienna",
+        "country": "Austria",
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "LT4VKE",
-        "designation": "Junior Developer",
-        "experience": "6 Months",
-        "city": "Stockholm",
-        "country": "Sweden",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "SJJVYE",
+        "id": "MKHG1I",
         "designation": "Data Entry Clerk",
         "experience": "3 Years",
-        "city": "Zurich",
-        "country": "Switzerland",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "HPZCSW",
-        "designation": "Care Coordinator",
-        "experience": "6 Months",
         "city": "Stockholm",
         "country": "Sweden",
-        "salary": "$2200/month"
+        "salary": "\u20ac1800/month"
     },
     {
-        "id": "9FRHZ5",
-        "designation": "Personal Health Aide",
+        "id": "MZF926",
+        "designation": "Rehabilitation Assistant",
         "experience": "6 Months",
         "city": "Zurich",
         "country": "Switzerland",
-        "salary": "$2400/month"
+        "salary": "\u20ac2800/month"
     },
     {
-        "id": "YAGOZU",
+        "id": "PBJA1F",
+        "designation": "Personal Health Aide",
+        "experience": "1 Year",
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "3EYUK8",
         "designation": "IT Support Technician",
-        "experience": "2 Years",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$2000/month"
+        "experience": "6 Months",
+        "city": "Brussels",
+        "country": "Belgium",
+        "salary": "\u20ac2800/month"
     },
     {
-        "id": "JIS9Q9",
+        "id": "CTMX4H",
         "designation": "Home Care Assistant",
         "experience": "6 Months",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$1800/month"
+        "city": "Berlin",
+        "country": "Germany",
+        "salary": "\u20ac2600/month"
     },
     {
-        "id": "V0AOWN",
+        "id": "YVWV95",
+        "designation": "Rehabilitation Assistant",
+        "experience": "6 Months",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "JCDE4V",
+        "designation": "Personal Health Aide",
+        "experience": "1 Year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "KBQBP2",
         "designation": "Junior Developer",
-        "experience": "6 Months",
-        "city": "Brussels",
-        "country": "Belgium",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "QDJSZ8",
-        "designation": "Rehabilitation Assistant",
-        "experience": "3 Years",
-        "city": "Brussels",
-        "country": "Belgium",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "CLO20T",
-        "designation": "Nursing Assistant",
-        "experience": "3 Years",
-        "city": "Brussels",
-        "country": "Belgium",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "6NPOQG",
-        "designation": "Elderly Support Worker",
         "experience": "1 Year",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$2400/month"
+        "city": "Madrid",
+        "country": "Spain",
+        "salary": "\u20ac2200/month"
     },
     {
-        "id": "AM7KRH",
-        "designation": "Child Care Attendant",
-        "experience": "2 Years",
-        "city": "Berlin",
-        "country": "Germany",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "GYPJC6",
-        "designation": "Elderly Support Worker",
+        "id": "GWEI8Q",
+        "designation": "Personal Health Aide",
         "experience": "6 Months",
         "city": "Berlin",
         "country": "Germany",
-        "salary": "$2400/month"
+        "salary": "\u20ac2800/month"
     },
     {
-        "id": "10TWC5",
-        "designation": "Care Coordinator",
-        "experience": "6 Months",
-        "city": "Paris",
-        "country": "France",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "1HUWXQ",
+        "id": "B99HHN",
         "designation": "IT Support Technician",
         "experience": "1 Year",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "PESLGT",
-        "designation": "Rehabilitation Assistant",
-        "experience": "2 Years",
         "city": "Copenhagen",
         "country": "Denmark",
-        "salary": "$2800/month"
+        "salary": "\u20ac2000/month"
     },
     {
-        "id": "H97GAR",
+        "id": "0KOBXG",
         "designation": "Child Care Attendant",
         "experience": "6 Months",
-        "city": "Berlin",
-        "country": "Germany",
-        "salary": "$1800/month"
+        "city": "Paris",
+        "country": "France",
+        "salary": "\u20ac2400/month"
     },
     {
-        "id": "D1RB7W",
-        "designation": "Child Care Attendant",
+        "id": "55AH7V",
+        "designation": "Junior Web Designer",
+        "experience": "1 Year",
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "GZ78VZ",
+        "designation": "Junior Developer",
+        "experience": "1 Year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "\u20ac2400/month"
+    },
+    {
+        "id": "HMB4DF",
+        "designation": "Data Entry Clerk",
+        "experience": "1 Year",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "\u20ac2000/month"
+    },
+    {
+        "id": "71TKS3",
+        "designation": "Healthcare Receptionist",
+        "experience": "6 Months",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "salary": "\u20ac2600/month"
+    },
+    {
+        "id": "VEPVH3",
+        "designation": "IT Support Technician",
         "experience": "1 Year",
         "city": "Paris",
         "country": "France",
-        "salary": "$2800/month"
+        "salary": "\u20ac2800/month"
     },
     {
-        "id": "P11T7A",
-        "designation": "Nursing Assistant",
-        "experience": "1 Year",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "LMDKF0",
-        "designation": "Junior Web Designer",
-        "experience": "6 Months",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "2KW9XB",
-        "designation": "Home Care Assistant",
-        "experience": "1 Year",
+        "id": "39QAGL",
+        "designation": "Healthcare Receptionist",
+        "experience": "2 Years",
         "city": "Helsinki",
         "country": "Finland",
-        "salary": "$2800/month"
+        "salary": "\u20ac2200/month"
     },
     {
-        "id": "KWAW8I",
-        "designation": "Elderly Support Worker",
-        "experience": "2 Years",
-        "city": "Copenhagen",
-        "country": "Denmark",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "AKJZKO",
-        "designation": "Elderly Support Worker",
+        "id": "11FEGD",
+        "designation": "Child Care Attendant",
         "experience": "1 Year",
-        "city": "Zurich",
-        "country": "Switzerland",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "7Z85MC",
-        "designation": "Home Care Assistant",
-        "experience": "6 Months",
-        "city": "Lisbon",
-        "country": "Portugal",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "8VLCYA",
-        "designation": "Child Care Attendant",
-        "experience": "6 Months",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$2000/month"
-    },
-    {
-        "id": "XHD25Y",
-        "designation": "Child Care Attendant",
-        "experience": "6 Months",
         "city": "Stockholm",
         "country": "Sweden",
-        "salary": "$2400/month"
+        "salary": "\u20ac2400/month"
     },
     {
-        "id": "XV9EME",
-        "designation": "Nursing Assistant",
-        "experience": "1 Year",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "CHV2T7",
-        "designation": "Healthcare Receptionist",
+        "id": "3AI89I",
+        "designation": "Home Care Assistant",
         "experience": "6 Months",
-        "city": "Zurich",
-        "country": "Switzerland",
-        "salary": "$2400/month"
+        "city": "Oslo",
+        "country": "Norway",
+        "salary": "\u20ac2000/month"
     },
     {
-        "id": "QZ78W9",
-        "designation": "Personal Health Aide",
-        "experience": "1 Year",
+        "id": "MGDGGM",
+        "designation": "Rehabilitation Assistant",
+        "experience": "6 Months",
         "city": "Lisbon",
         "country": "Portugal",
-        "salary": "$2200/month"
-    },
-    {
-        "id": "0DYRMP",
-        "designation": "Elderly Support Worker",
-        "experience": "2 Years",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "V9XPFG",
-        "designation": "Care Coordinator",
-        "experience": "1 Year",
-        "city": "Zurich",
-        "country": "Switzerland",
-        "salary": "$2600/month"
-    },
-    {
-        "id": "FJZV1S",
-        "designation": "IT Support Technician",
-        "experience": "6 Months",
-        "city": "Brussels",
-        "country": "Belgium",
-        "salary": "$2400/month"
-    },
-    {
-        "id": "ZIRPZN",
-        "designation": "Junior Web Designer",
-        "experience": "6 Months",
-        "city": "Berlin",
-        "country": "Germany",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "7S5YQA",
-        "designation": "Healthcare Receptionist",
-        "experience": "2 Years",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$2400/month"
-    },
-    {
-        "id": "Y2H7L9",
-        "designation": "Elderly Support Worker",
-        "experience": "2 Years",
-        "city": "Helsinki",
-        "country": "Finland",
-        "salary": "$2400/month"
-    },
-    {
-        "id": "74CTA5",
-        "designation": "Elderly Support Worker",
-        "experience": "6 Months",
-        "city": "Oslo",
-        "country": "Norway",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "PRX8DM",
-        "designation": "IT Support Technician",
-        "experience": "1 Year",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$2800/month"
-    },
-    {
-        "id": "7LJFQ9",
-        "designation": "IT Support Technician",
-        "experience": "6 Months",
-        "city": "Amsterdam",
-        "country": "Netherlands",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "IKCP7E",
-        "designation": "Elderly Support Worker",
-        "experience": "6 Months",
-        "city": "Helsinki",
-        "country": "Finland",
-        "salary": "$1800/month"
-    },
-    {
-        "id": "HS2GA1",
-        "designation": "IT Support Technician",
-        "experience": "6 Months",
-        "city": "Berlin",
-        "country": "Germany",
-        "salary": "$2400/month"
+        "salary": "\u20ac2200/month"
     }
 ]
